@@ -1,0 +1,5 @@
+wheel==0.30.0a0
+Flask==0.12.1
+flask-restplus==0.10.1
+gunicorn==19.7.1
+gevent==1.2.1
